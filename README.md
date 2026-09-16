@@ -7,3 +7,7 @@
 1. git status
 2. git add README.md
 3. git commit -m "Modified README"
+4. git config --global user.email "lmjunho0811@naver.com"
+5. git config --global user.name "lmjunho0811"
+6. git commit -m "Modified README"
+7. git push
